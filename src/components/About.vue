@@ -87,13 +87,13 @@
                                     model-value="96"
                                     height="10"
                                     striped
-                                    color="brown"
+                                    color="deep-orange"
                                   ><b>96%</b></v-progress-linear>
 
                                   <p class="skill">Vue JS</p>
                                   <v-progress-linear
                                     model-value="75"
-                                    color="brown"
+                                    color="deep-orange"
                                     height="10"
                                     striped
                                   >75%</v-progress-linear>
@@ -103,7 +103,7 @@
                                     model-value="35"
                                     height="10"
                                     striped
-                                    color="brown"
+                                    color="deep-orange"
                                   ><b>35%</b></v-progress-linear>
 
                                   <p class="skill">PHP</p>
@@ -111,7 +111,7 @@
                                     model-value="75"
                                     height="10"
                                     striped
-                                    color="brown"
+                                    color="deep-orange"
                                   ><b>75%</b></v-progress-linear>
 
                                   <p class="skill">MySQL</p>
@@ -119,7 +119,7 @@
                                     model-value="86"
                                     height="10"
                                     striped
-                                    color="brown"
+                                    color="deep-orange"
                                   ><b>86%</b></v-progress-linear>
 
                                   <p class="skill">WordPress</p>
@@ -127,16 +127,16 @@
                                     model-value="90"
                                     height="10"
                                     striped
-                                    color="brown"
+                                    color="deep-orange"
                                   ><b>90%</b></v-progress-linear>
                                   
                                   <p class="skill">Testing &amp; Debugging</p>
                                   <v-progress-linear
                                     model-value="89"
-                                    color="brown"
+                                    color="deep-orange"
                                     height="10"
                                     striped
-                                  >69%</v-progress-linear>
+                                  >89%</v-progress-linear>
                                 </div>
                             </v-container>
                     </v-sheet>

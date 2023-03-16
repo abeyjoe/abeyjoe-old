@@ -53,6 +53,14 @@
         variant="plain"
         size="small"
       ></v-btn> 
+      <v-btn
+        icon="mdi-gmail"
+        href="mailto: abeyjoe18@gmail.com"
+        target="_blanck"
+        class="mx-4"
+        variant="plain"
+        size="small"
+      ></v-btn> 
 
 <!--
       <v-btn
