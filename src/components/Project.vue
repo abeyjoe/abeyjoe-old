@@ -162,7 +162,7 @@
 
         <v-card-text>
           Weather forcasting system is made with web app capable of detecting the exact temperature degree of any location (state or country) aound the globe in degree celcious. <br>
-          This project was developer with vue javascript.
+          This project was developer with vue javascript. <br>
           <code>Developed By:<span>Abeyjoe</span></code>
         </v-card-text>
       </div>
