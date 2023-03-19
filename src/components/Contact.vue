@@ -5,7 +5,7 @@
 
 
   <v-sheet width="300" class="mx-auto">
-    <v-form fast-fail @submit.prevent>
+    <v-form fast-fail> <!-- @submit.prevent -->
       <v-text-field
         v-model="firstName"
         label="First name"
@@ -22,51 +22,25 @@
       ></v-text-field>
 
       <v-text-field
+        v-model="textField"
+        label="Description"
+        :rules="fieldRules"
+        required
+        autocomplete="off"
+      ></v-text-field>
+<!--
+      <v-text-field
         v-model="textFieled"
         label="Say something"
         :rules="fieldRules"
         autocomplete="off"
       ></v-text-field>
-
+-->
       <v-btn type="submit" block class="mt-2">Submit</v-btn>
     </v-form>
   </v-sheet>
 
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
@@ -204,6 +178,7 @@
           return 'E-mail must be valid.'
         },
       ],
+      textField: '',
       fieldRules: [
         value => {
           if (value?.length > 3) return true
