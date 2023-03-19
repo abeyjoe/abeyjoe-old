@@ -82,7 +82,7 @@
         </v-card-subtitle>
     
         <v-card-actions>
-          <a href="https://abeyjoe.github.io/CalculatorLive" target="_blanck">
+          <a href="https://calculatorlive.netlify.app" target="_blanck">
           <v-btn
             color="orange-lighten-2"
             variant="text"
@@ -125,27 +125,29 @@
     max-width="344"
   >
     <v-img
-      src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+      src="../assets/weather.png"
       height="200px"
       cover
     ></v-img>
 
     <v-card-title>
-      Coming soon...
+      Weather Forcasting Web App
     </v-card-title>
 
     <v-card-subtitle>
-      Watchout...
+      Weather farcasting web app made with Vue 3.
     </v-card-subtitle>
 
     <v-card-actions>
-      <v-btn
-        color="orange-lighten-2"
-        variant="text"
-      >
-        Explore
-      </v-btn>
-
+      <a href="https://abeyjoe-weather.netlify.app" target="_blanck">
+          <v-btn
+            color="orange-lighten-2"
+            variant="text"
+          >
+            Explore
+          </v-btn>
+        </a>
+        
       <v-spacer></v-spacer>
 
       <v-btn
@@ -159,7 +161,9 @@
         <v-divider></v-divider>
 
         <v-card-text>
-          I'm a thing. But, like most politicians, he promised more than he could deliver. You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Then we'll go with that data file! Hey, you add a one and two zeros to that or we walk! You're going to do his laundry? I've got to find a way to escape.
+          Weather forcasting system is made with web app capable of detecting the exact temperature degree of any location (state or country) aound the globe in degree celcious. <br>
+          This project was developer with vue javascript.
+          <code>Developed By:<span>Abeyjoe</span></code>
         </v-card-text>
       </div>
     </v-expand-transition>
