@@ -21,7 +21,7 @@
     </v-card-title>
 
     <v-card-subtitle>
-      Certified Electrical Engineer In Nigeria
+      HTML, CSS, Bootstrap and JavaScript
     </v-card-subtitle>
 
     
@@ -78,7 +78,7 @@
         </v-card-title>
     
         <v-card-subtitle>
-          1,000 miles of wonder
+          HTML, CSS and JavaScript
         </v-card-subtitle>
     
         <v-card-actions>
@@ -135,7 +135,7 @@
     </v-card-title>
 
     <v-card-subtitle>
-      Weather farcasting web app made with Vue 3.
+      Vue JS web app
     </v-card-subtitle>
 
     <v-card-actions>
