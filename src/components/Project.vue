@@ -179,20 +179,21 @@
     max-width="344"
   >
     <v-img
-      src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+      src="../assets/todo.png"
       height="200px"
       cover
     ></v-img>
 
     <v-card-title>
-      Coming soon...
+      TODO LIST APPLICATION
     </v-card-title>
 
     <v-card-subtitle>
-      Watchout...
+      VueJS, NodeJS, HTML &amp; CSS.
     </v-card-subtitle>
 
     <v-card-actions>
+    <a href="https://abeyjoe-todo.netlify.app/" target="_blanck">
       <v-btn
         color="orange-lighten-2"
         variant="text"
@@ -213,7 +214,9 @@
         <v-divider></v-divider>
 
         <v-card-text>
-          I'm a thing. But, like most politicians, he promised more than he could deliver. You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Then we'll go with that data file! Hey, you add a one and two zeros to that or we walk! You're going to do his laundry? I've got to find a way to escape.
+          Todo list application suitable for daily uses &amp; activities. With is web application, users can note down plans for the day either personal or business. The system is configured to enable user to create TODOs, Edit TODOs, Delete TODOs, &amp; Successfully tick completed task. Some benefits this web app provides are Local storage medium and can store unlimited TODOs for a whole year or more. <br>
+          This project was developed with vue javascript.
+          <code>Developed By:<span>Abeyjoe</span></code>
         </v-card-text>
       </div>
     </v-expand-transition>
